@@ -2,6 +2,11 @@
 
 All notable changes to the WaifuWiki project will be documented in this file.
 
+## 1.1.0 - 2026-05-27
+- Added Vercel deployment config (vercel.json)
+- Added Netlify deployment config (netlify.toml) with SPA redirect
+- Added GitHub Pages deployment via Actions workflow (.github/workflows/deploy.yml)
+
 ## 1.0.0 - 2026-05-27
 - Complete UI/UX redesign with modern anime wiki aesthetic
 - Added Outfit (display) + Inter (body) Google Fonts for typography
