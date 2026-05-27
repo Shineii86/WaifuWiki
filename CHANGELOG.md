@@ -2,6 +2,22 @@
 
 All notable changes to the WaifuWiki project will be documented in this file.
 
+## 1.3.0 - 2026-05-27
+- Expanded README.md to ~1000 lines with comprehensive documentation
+- Added Architecture section with data flow and component hierarchy diagrams
+- Added Component Reference with TypeScript interfaces for all components
+- Added Routing documentation with code examples
+- Added Animation System section with Framer Motion variants and CSS keyframes
+- Added Environment & Browser Support table
+- Added Performance metrics and optimization features
+- Added expanded Troubleshooting with debug mode commands
+- Added 10-item FAQ with collapsible answers
+- Added expanded Roadmap with 15 planned features
+- Added expanded Contributing guide with step-by-step instructions
+- Added Stargazers and Forkers supporter images
+- Added color palette preview swatches with hex codes
+- Added alternative package manager instructions (yarn, pnpm, bun)
+
 ## 1.2.0 - 2026-05-27
 - Added MIT LICENSE file
 - Completely rewrote README.md with detailed sections, emojis, badges, table of contents
