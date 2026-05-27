@@ -2,6 +2,18 @@
 
 All notable changes to the WaifuWiki project will be documented in this file.
 
+## 1.2.0 - 2026-05-27
+- Added MIT LICENSE file
+- Completely rewrote README.md with detailed sections, emojis, badges, table of contents
+- Added banner image, feature table, tech stack table, project structure tree
+- Added Waifu Data Schema documentation with field types
+- Added Design System documentation (colors, typography, animations)
+- Added deployment guides for Vercel, Netlify, and GitHub Pages
+- Added screenshots section, troubleshooting table, FAQ accordion
+- Added roadmap with planned features
+- Added contributing guidelines
+- Added star history chart and profile view counter
+
 ## 1.1.0 - 2026-05-27
 - Added Vercel deployment config (vercel.json)
 - Added Netlify deployment config (netlify.toml) with SPA redirect
