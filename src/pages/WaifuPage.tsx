@@ -1,6 +1,6 @@
 import { useParams, Link, Navigate } from "react-router-dom"
 import { motion } from "framer-motion"
-import { ArrowLeft, Star, Heart, Calendar, Mic, BookOpen, ThumbsUp, ThumbsDown, Tag, Sparkles, Swords } from "lucide-react"
+import { ArrowLeft, Star, Calendar, Mic, BookOpen, ThumbsUp, ThumbsDown, Tag, Sparkles, Swords } from "lucide-react"
 import Navbar from "@/components/Navbar"
 import Footer from "@/components/Footer"
 import ImageGallery from "@/components/ImageGallery"
